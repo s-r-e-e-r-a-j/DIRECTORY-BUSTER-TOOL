@@ -4,23 +4,23 @@ This Tool Finds Hidden Webpages, Hiddenfiles,Hidden directories in a  a website 
 
 Run this Tool In Terminal By Executing:
 
-python3 directorybuster.py      URL  PATH OF WORDLIST  -o      OUTPUTFILENAME.txt
+```python3 directorybuster.py      URL  PATH OF WORDLIST  -o      OUTPUTFILENAME.txt```
 
-Example : python3 directorybuster.py    http://example.com   /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt  -o  results.txt
+Example : ```python3 directorybuster.py    http://example.com   /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt  -o  results.txt```
 
 If any module is missing execute this command on terminal:-
 
-pip3 install missingmodulename
+```pip3 install missingmodulename```
 
 Help option is included:
 
-Execute python3 directorybuster.py -h for help instruction
+Execute ```python3 directorybuster.py -h ```for help instruction
 
-All wordlists for this tool are available in kali linux at this path /usr/share/wordlists/dirbuster
+All wordlists for this tool are available in kali linux at this path ```/usr/share/wordlists/dirbuster```
 
 If you run this tool in kalilinux or other hacking os on Desktop by executing
 
-python3 directorybuster.py       http://example.com  /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -o results.txt
+```python3 directorybuster.py       http://example.com  /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt -o results.txt```
 
 This Tool start search for hidden webpages,hidden directories,hiddenfiles in a website or webapplication. if the status code is 200 remember that url contains sensitive informations like hidden directoris,hiddenwebpages,hidden files else not contains anything 
 
