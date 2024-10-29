@@ -1,6 +1,6 @@
 This is a Directory Buster tool maded with python language
 
-This Tool Finds Hidden Webpages, Hiddenfiles,Hidden directories in a  a webserver
+This Tool Finds Hidden Webpages, Hiddenfiles,Hidden directories in a   webserver
 
 Run this Tool In Terminal By Executing:
 
